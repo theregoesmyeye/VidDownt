@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">VidDownt</string>
-    <string name="enter_video_url">Enter video URL</string>
-    <string name="download_video">Download Video</string>
+    <string name="paste_url">Paste video URL</string>
+    <string name="download">Download</string>
+    <string name="downloading">Downloading…</string>
+    <string name="downloaded">Downloaded</string>
+    <string name="enter_valid_url">Please enter a valid URL</string>
+    <string name="download_complete">Download Complete</string>
+    <string name="error">Error</string>
+    <string name="cancel">Cancel</string>
+    <string name="retry">Retry</string>
+    <string name="clear">Clear</string>
+    <string name="paste">Paste</string>
 </resources>
