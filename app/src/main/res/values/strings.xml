@@ -3,6 +3,8 @@
     <string name="app_name">VidDownt</string>
     <string name="paste_url">Paste video URL</string>
     <string name="download">Download</string>
+    <string name="enter_video_url">Enter video URL</string>
+    <string name="download_video">Download Video</string>
     <string name="downloading">Downloading…</string>
     <string name="downloaded">Downloaded</string>
     <string name="enter_valid_url">Please enter a valid URL</string>
