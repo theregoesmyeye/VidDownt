@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VidDownt</string>
+    <string name="enter_video_url">Enter video URL</string>
+    <string name="download_video">Download Video</string>
+</resources>
