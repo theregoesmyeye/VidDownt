@@ -1,0 +1,33 @@
+# Gradle files
+.gradle/
+build/
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Local configuration file
+local.properties
+
+# Generated files
+bin/
+gen/
+out/
+
+# Proguard folder
+proguard/
+
+# Android Studio
+.idea/
+.idea_modules/
+*.iml
+*.iws
+*.ipr
+
+# Intellij
+*.swp
+*.swo
+*~
+
+# Mac
+.DS_Store
