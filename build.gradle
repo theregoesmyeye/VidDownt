@@ -1,0 +1,12 @@
+// Project level build.gradle file
+
+plugins {
+    id 'com.android.tools.build:gradle' version '7.0.0'
+}
+
+allprojects {
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
